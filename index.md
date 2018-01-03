@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 北京旅游攻略
 ---
 
 [Link to Xiamen](xiamen).
