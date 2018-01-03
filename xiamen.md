@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 厦门旅游攻略
 ---
 
 [Back](./)
